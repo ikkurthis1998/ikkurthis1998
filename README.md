@@ -1,4 +1,4 @@
-### Hi there 👋 Sree here, go to https://whoissree.com for more
+### Hi there 👋 Sree here, go to https://isree.dev for more
 
 <!--
 **ikkurthis1998/ikkurthis1998** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

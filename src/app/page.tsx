@@ -12,7 +12,7 @@ export default function Home() {
 			<div className={styles.center}>
 				<div className={styles.hey_there_div}>
 					<h2 className={styles.hey_there_title}>
-						Hey there! I'm Sree
+						Hey there! I&apos;m Sree
 					</h2>
 					<p>
 						A developer armed with a diverse skill set, I thrive in
@@ -41,21 +41,20 @@ export default function Home() {
 					<p>
 						I believe in solving problems efficiently, always
 						keeping a keen eye on the delicate balance of cost and
-						time. Let's build something amazing together!
+						time. Let&apos;s build something amazing together!
 					</p>
 				</div>
 				<div className={styles.card}>
-					<h2>🌐 Let's Talk Projects</h2>
+					<h2>🌐 Let&apos;s Talk Projects</h2>
 					<p>
 						Got a project in mind? Excited about the potential of
-						collaboration? Feel free to reach out through the form
-						below. Let's turn your ideas into reality!
+						collaboration? Feel free to reach out. Let&apos;s turn your ideas into reality!
 					</p>
 				</div>
 				<div className={styles.card}>
 					<h2>💻 Tech Stack</h2>
 					<p>
-						I'm fluent in TypeScript, JavaScript, React, and
+						I&apos;m fluent in TypeScript, JavaScript, React, and
 						MongoDB. My playground includes server-side REST APIs,
 						Kafka, Kubernetes, and GraphQL
 					</p>
